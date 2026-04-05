@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Please answer with one of the option in the bracket",
+    "reference": "D: Decreased cardiac contractility due to cardiac myocyte injury",
+    "base_answer": "Option 1:\n- Create a new folder named \"assistant\" in the root directory of your project.\n- Open the \"assistant\" folder in your text editor.\n- Add a new file named \"index.html\" to the \"assistant\" folder.\n- Open the \"index.html\" file in your text editor.\n- Add the following HTML code:\n```html\n<!DOCTYPE html>\n<html>\n<head>\n\t<title>Assistant</title>\n</head>\n<body>\n\t<h1>Welcome to the Assistant!</h1>\n\t<p>This is a sample HTML page that uses the Assistant to generate",
+    "finetuned_answer": "B: Increased serum creatinine"
+  },
+  {
+    "question": "Please answer with one of the option in the bracket",
+    "reference": "B: Impaired synthesis of cell wall polysaccharides",
+    "base_answer": "Option 1:\n- Create a new folder named \"assistant\" in the root directory of your project.\n- Open the \"assistant\" folder in your text editor.\n- Add a new file named \"index.html\" to the \"assistant\" folder.\n- Open the \"index.html\" file in your text editor.\n- Add the following HTML code:\n```html\n<!DOCTYPE html>\n<html>\n<head>\n\t<title>Assistant</title>\n</head>\n<body>\n\t<h1>Welcome to the Assistant!</h1>\n\t<p>This is a sample HTML page that uses the Assistant to generate",
+    "finetuned_answer": "D: Increased serum creatinine"
+  },
+  {
+    "question": "Please answer with one of the option in the bracket",
+    "reference": "C: Tenderness at the Achilles tendon insertion site",
+    "base_answer": "Option 1:\n- Create a new folder named \"assistant\" in the root directory of your project.\n- Open the \"assistant\" folder in your text editor.\n- Add a new file named \"index.html\" to the \"assistant\" folder.\n- Open the \"index.html\" file in your text editor.\n- Add the following HTML code:\n```html\n<!DOCTYPE html>\n<html>\n<head>\n\t<title>Assistant</title>\n</head>\n<body>\n\t<h1>Welcome to the Assistant!</h1>\n\t<p>This is a sample HTML page that uses the Assistant to generate",
+    "finetuned_answer": "B: Increased serum creatinine"
+  },
+  {
+    "question": "Please answer with one of the option in the bracket",
+    "reference": "E: Primary ovarian insufficiency (POI)",
+    "base_answer": "Option 1:\n- Create a new folder named \"assistant\" in the root directory of your project.\n- Open the \"assistant\" folder in your text editor.\n- Add a new file named \"index.html\" to the \"assistant\" folder.\n- Open the \"index.html\" file in your text editor.\n- Add the following HTML code:\n```html\n<!DOCTYPE html>\n<html>\n<head>\n\t<title>Assistant</title>\n</head>\n<body>\n\t<h1>Welcome to the Assistant!</h1>\n\t<p>This is a sample HTML page that uses the Assistant to generate",
+    "finetuned_answer": "C: Increased serum creatinine"
+  },
+  {
+    "question": "Please answer with one of the option in the bracket",
+    "reference": "D: Defect in the ventricular septum",
+    "base_answer": "Option 1:\n- Create a new folder named \"assistant\" in the root directory of your project.\n- Open the \"assistant\" folder in your text editor.\n- Add a new file named \"index.html\" to the \"assistant\" folder.\n- Open the \"index.html\" file in your text editor.\n- Add the following HTML code:\n```html\n<!DOCTYPE html>\n<html>\n<head>\n\t<title>Assistant</title>\n</head>\n<body>\n\t<h1>Welcome to the Assistant!</h1>\n\t<p>This is a sample HTML page that uses the Assistant to generate",
+    "finetuned_answer": "C: Increased serum creatinine and decreased urine output"
+  }
+]
